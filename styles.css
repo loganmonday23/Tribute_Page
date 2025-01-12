@@ -1,0 +1,22 @@
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block; /* This centers the image */
+}
+
+#img-div {
+  text-align: center; /* Centers the caption and paragraph */
+  margin-bottom: 20px;
+}
+
+#tribute-info {
+  font-style: italic;
+}
+
+#tribute-link {
+  display: block;
+  text-decoration: none;
+  color: blue;
+  margin-top: 10px;
+}
